@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-require_relative './gemfile'
+require_relative '../Gemfile'
 
 Hashie
 Sinatra
